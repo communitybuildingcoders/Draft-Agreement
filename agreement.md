@@ -20,7 +20,7 @@ The Parties agree to the following schedule:
 
 Initial Design Date: _______________________________________________________
 
-Client Comment/Approval Date: ______________________________________________
+Client Comment/Approval Date: __________________________________________
 
 Final Design Date: _________________________________________________________
 
@@ -42,7 +42,7 @@ CBCoders reserves the right to display all aspects of creative work, including s
 
 ### CBCoders
 
-CBCoders represents and warrants that they have the right to enter into and perform this Agreement. CBCoders further represents and warrants that hthey have the right to utilize and distribute the designs created for Client and that such designs are not owned by anyone else to CBCoders’s knowledge. In the event that CBCoders does not have these rights, CBCoders will repay any associated damages Client may experience or will take responsibility so that Client does not experience any damages.
+CBCoders represents and warrants that they have the right to enter into and perform this Agreement. CBCoders further represents and warrants that they have the right to utilize and distribute the designs created for Client and that such designs are not owned by anyone else to CBCoders’s knowledge. In the event that CBCoders does not have these rights, CBCoders will repay any associated damages Client may experience or will take responsibility so that Client does not experience any damages.
 
 ### Client
 
