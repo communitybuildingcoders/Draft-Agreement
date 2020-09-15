@@ -4,11 +4,27 @@ This Website Design Agreement (“Agreement”) is being made between __________
 
 ## 1. Services
 
-CBCoders will provide the following services: A modern website of no more than three (3) to five (5) pages, including but not limited to a "Home" page, an "About" page, and a "Contact" page/form. CBCoders will not provide domain name sourcing or web hosting services. The final product will be provided to the Client as a compressed folder suitable for uploading to the Clent's hosting service.
+CBCoders will provide the following services: A modern website of no more than three (3) to five (5) pages, including but not limited to a "Home" page, an "About" page, and a "Contact" page/form. CBCoders will not provide domain name sourcing, web hosting services or maintenance. The final product will be provided to the Client as a compressed folder suitable for uploading to the Client's hosting service or through access to a GitHub repository.
+
+### Browser testing
+
+CBCoders will ensure that a user's experience of the Project will be appropriate to the capabilities of major browsers and devices. The Project will be tested in current versions of major desktop browsers, including but not limited to Safari, Chrome, Edge, Firefox, and Opera. Further, CBCoders will test the Project for compatibility with mobile browsing and smaller screens. CBCoders makes no claim that the Project will be compatible with all browsers or devices.
+
+### Technical support
+
+CBCoders offers no technical support nor on-going maintenance once the Project is completed and the Client has receipt of the files.
+
+### Search engine optimization (SEO)
+
+CBCoders makes no claim to improve search engine optimization.
+
+### Accessibility
+
+CBCoders will make all efforts to ensure that all the Project will conform to the WCAG 2.1 AA guidelines and pass all relevant Success Criteria. Accessibility of content added to the site by Client such as video and images are the responsibility of the Client and any design changes or decisions requested by Client that CBCoders identifies as potentially violating any of the Success Criteria will be made with the knowledge of the Client taking responsibilities for such decisions. CBCoders makes no claim or warranty to the continued accessibility of the Project after completion.
 
 ## 2. Cost and Payment
 
-CBCoders is a volunteer web development service. The Client will incur no costs for the development as outlined in Section 1. CBCoders will not be responsible for costs incurred by the Client after development, such as, but not limited to, domain name, hosting, or form submission.
+CBCoders is a volunteer web development service. The Client will incur no costs for the development as outlined in Section 1. CBCoders will not be responsible for costs incurred by the Client after development, such as, but not limited to, domain name, hosting, maintenance, analytics, or form submission.
 
 ## 3. Revisions
 
